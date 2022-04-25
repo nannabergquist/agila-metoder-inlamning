@@ -8,7 +8,7 @@ export default function Role() {
     return (
         <div className={styles.wrapperSection}>
             <section className={styles.mainSectionRole}>
-                <h1>Scrum: Roller</h1>
+                <h1>Roller</h1>
                 <h3>Projekt metoden Scrum använder sig utav tre roller; Product Owner, Development Team och Scrum Master. Dessa tre rollerna är nyckeln för en bra framgång av projektet så därför är det viktigt att känna till dessa roller och veta vad dessa roller innefattar innan man använder sig utav Scrum.</h3>
                 <img className={styles.imgRole} src={Powner} alt="product-owner" />
                 <img className={styles.imgRole} src={Team} alt="developer-team" />
