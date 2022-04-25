@@ -1,0 +1,21 @@
+.wrapper {
+    margin: 1rem;
+}
+
+.mainSection {
+    text-align: center;
+}
+
+section {
+    padding: 2rem;
+    margin: 0;
+}
+
+img {
+    width: 25vh;
+}
+
+h2,
+p {
+    color: #ac3d27;
+}
