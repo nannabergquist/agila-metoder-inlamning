@@ -1,0 +1,39 @@
+.wrapperSection {
+    margin: 2rem;
+    text-align: justify;
+}
+
+.mainSectionRole {
+    text-align: center;
+    padding: 1.2rem;
+
+}
+
+section {
+    padding: 2rem;
+    margin: 0;
+}
+
+
+
+p {
+    color: #ac3d27;
+}
+
+.textBackgroundColor {
+    background-color: #FFDAB9;
+    border-radius: 25px;
+}
+
+.imgScrum {
+    width: 20vh;
+    margin: 0.4rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.talkingGuyImg {
+    width: 100%;
+    margin: 1rem;
+    margin-top: 10rem;
+}
